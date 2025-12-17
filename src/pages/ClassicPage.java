@@ -16,4 +16,8 @@ public class ClassicPage {
 
 	}
 
+	public void master() {
+		System.out.println("HI master");
+	}
+
 }
