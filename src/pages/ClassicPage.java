@@ -14,7 +14,7 @@ public class ClassicPage {
 		int sal=125;
 		System.out.println("HI cart");
 		
-		int h=10;
+		int h=10; 
 
 	}
 
