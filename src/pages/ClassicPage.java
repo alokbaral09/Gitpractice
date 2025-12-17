@@ -11,7 +11,7 @@ public class ClassicPage {
 		
 		String name="alok";
 		int age=20;
-		int sal=120;
+		int sal=125;
 
 	}
 
